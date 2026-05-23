@@ -1,0 +1,19 @@
+{
+  "name": "kangjay-trafis",
+  "version": "1.0.0",
+  "description": "Website layanan pijat profesional dengan database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.1",
+    "cors": "^2.8.6",
+    "express": "^4.22.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
