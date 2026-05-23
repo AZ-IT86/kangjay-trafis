@@ -13,8 +13,8 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // ============ SUPABASE CONFIGURATION ============
-const supabaseUrl = 'https://cknxknecutzyxjzbgxvj.supabase.co';
-const supabaseKey = 'sb_publishable_y5gdWh6pZQzzvF09owMHYg_4VcCcT1v';
+const supabaseUrl = 'https://duuaemjcsanuoltmvxlv.supabase.co';
+const supabaseKey = 'sb_publishable_Zk9PfDvYkZgHfNPKph4ahg_A3IDw6Xt';
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 // ============ API ENDPOINTS ============
